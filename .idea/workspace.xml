@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3067a2d-7644-4ff4-a1d8-0f688b4cdde0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2022_07_27/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/select_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_07_27/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022_07_27/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022_07_27/select_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/2022_07_27/select_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/code/Python_Algorithm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.select_sort">
+  <component name="RunManager" selected="Python.bubble_sort">
     <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.select_sort" />
         <item itemvalue="Python.bubble_sort" />
+        <item itemvalue="Python.select_sort" />
         <item itemvalue="Python.binary_search" />
         <item itemvalue="Python.linear_search" />
         <item itemvalue="Python.hanoi" />
