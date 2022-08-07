@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3067a2d-7644-4ff4-a1d8-0f688b4cdde0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2022_07_27/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/hanoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/linear_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/sample_insert_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022_07_27/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +27,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/code/Python_Algorithm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/software/program/WindowsNoEditor/PythonAPI/MyCode"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.sample_insert_sort">
     <configuration name="binary_search (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Algorithm" />
